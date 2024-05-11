@@ -5,3 +5,7 @@ pyshorteners
 wikipedia
 win10toast
 moviepy
+newsapi-python
+opencv-contrib-python
+PyQRCode
+pypng

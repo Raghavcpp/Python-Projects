@@ -9,3 +9,4 @@ newsapi-python
 opencv-contrib-python
 PyQRCode
 pypng
+flask
